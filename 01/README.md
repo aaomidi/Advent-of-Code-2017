@@ -7,7 +7,7 @@
 
 ### Language Experience:
 
-1 [See this link for explaination][https://github.com/aaomidi/Advent-of-Code-2017/blob/master/README.md]
+1 [See this link for explaination](https://github.com/aaomidi/Advent-of-Code-2017/blob/master/README.md)
 
 ### Lessons learned:
 
